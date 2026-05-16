@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yo! 🎤
 
-<!--
-**miles-freeman387/miles-freeman387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **miles-freeman387**, a ml enthusiast.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 🌟 Open source enthusiast
+- 🌱 Always learning new things
+- 💬 Ask me anything about code
+
+## Tech
+
+`Sinatra` `Django` `Elasticsearch`
+
+---
+
+_Lo-fi enthusiast._
